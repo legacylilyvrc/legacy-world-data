@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "data": {
+    "version": 1,
+    "eventId": "20260907-LILLY-01",
+    "store": "Lilly",
+    "currency": "LegacyCoin",
+    "generatedAt": "2026-09-08T00:34:57.4379461Z",
+    "users": [
+      {
+        "legacyId": "LG-000001",
+        "displayName": "さしみ_343",
+        "balance": 500
+      },
+      {
+        "legacyId": "LG-000002",
+        "displayName": "ID自動採番テスト",
+        "balance": 500
+      }
+    ]
+  },
+  "error": null
+}
