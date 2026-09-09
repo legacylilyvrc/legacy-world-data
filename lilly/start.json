@@ -5,17 +5,19 @@
     "eventId": "20260907-LILLY-01",
     "store": "Lilly",
     "currency": "LegacyCoin",
-    "generatedAt": "2026-09-08T00:34:57.4379461Z",
+    "generatedAt": "2026-09-09T09:09:47.7512362Z",
     "users": [
       {
         "legacyId": "LG-000001",
         "displayName": "さしみ_343",
-        "balance": 500
+        "balance": 500,
+        "lastVisitBonusPeriod": null
       },
       {
         "legacyId": "LG-000002",
-        "displayName": "[1] Local Player",
-        "balance": 500
+        "displayName": "ID自動採番テスト",
+        "balance": 500,
+        "lastVisitBonusPeriod": null
       }
     ]
   },
